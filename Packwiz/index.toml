@@ -221,6 +221,11 @@ hash = "15dc3b581cc649acea7f375427dfd4116b29d724be1092c8ca306e968a0a4a98"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0521ed2becdf2b460511c92e80e2702a4b6e540c85c99fb571844e1c7c505724"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
@@ -238,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/irons-lib.pw.toml"
+hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
 metafile = true
 
 [[files]]
@@ -298,6 +308,11 @@ metafile = true
 [[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "93284ca7f2f23f0bb76d42b797cabf2aea1914ee9825bec82bf6ffe4c60dda0d"
 metafile = true
 
 [[files]]
