@@ -21,6 +21,21 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "3ac93fcf9be618db321efebbbd55045878dec6119fa05b3188cbda746c978748"
+metafile = true
+
+[[files]]
+file = "mods/artifacts.pw.toml"
+hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "9e8e6fefe7bbb8d00c64a5c9ee6b9dff3c7f18804f7fa7d72f07c37a1cb348a3"
 metafile = true
@@ -78,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/corpse.pw.toml"
 hash = "8e671fbd3a5460a61073cced391ec08efc6b67d765e49015eea45a1f1db159a0"
+metafile = true
+
+[[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "58755a8908c4d73072f7d5e8c1b6bcedffa485c0bc121bc36f77845fa32fd0bf"
 metafile = true
 
 [[files]]
@@ -221,6 +241,11 @@ hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
 
 [[files]]
+file = "mods/irons-spells-n-spellbooks.pw.toml"
+hash = "46fd3a8062699383239729b7f4937fdd83177581492d3b12c8ad74dd52bfe05a"
+metafile = true
+
+[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
@@ -271,6 +296,11 @@ hash = "bbaa5acb4a63efb00b03a674e3c4490a67da1c24ca9b8d6c43f74a1dee905049"
 metafile = true
 
 [[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "3f552bbdc42f07fd7d5695ced1d27d774af63cff5460be45817939e5f8e4f9de"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
@@ -283,6 +313,21 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "9aa5e1336f740ded1cbea430bb59f03e98446a7f5298977e9a4d6fae39552b4f"
+metafile = true
+
+[[files]]
+file = "mods/relics-mod.pw.toml"
+hash = "cc4026afb6543fb624a2a4896bf4a828393380b405074325b22b67cb1438ee67"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-artifacts.pw.toml"
+hash = "97d6e833cc930ad0a4ca5f33ff9dd58a2c890d310faa5d0c5f88085731566df6"
+metafile = true
+
+[[files]]
+file = "mods/reliquified-irons-spells-n-spellbooks.pw.toml"
+hash = "b3cd735990f250d8107bb7291bbc8a507b3321744106c9091da59333b517c531"
 metafile = true
 
 [[files]]
@@ -353,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "8e8279c29671803cae3f9ab39c87956e4a4300fe8f9da9a9222850ca3253fb45"
 metafile = true
 
 [[files]]
