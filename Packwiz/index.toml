@@ -21,6 +21,11 @@ hash = "6d3a1c92eee4dd671253c41ec000ae48064a33c45263d6adce5cad466395169d"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "6dc9443f66c77a942c58a0c1e827dc3daa7eb4e6fb0d7039862b5c5b6a00b505"
+metafile = true
+
+[[files]]
 file = "mods/chunky-offline.pw.toml"
 hash = "986f28c111e5ecf1a77054203ddcc6642d269561827cab3968c811672a7ce53c"
 metafile = true
@@ -221,6 +226,11 @@ hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f01c401ebc6f28875f3329f4f1b2cab86e42a4dc5b6925697a2f85564f4623ca"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
 metafile = true
@@ -248,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-restrictions.pw.toml"
 hash = "bbaa5acb4a63efb00b03a674e3c4490a67da1c24ca9b8d6c43f74a1dee905049"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
