@@ -276,6 +276,11 @@ hash = "9aa5e1336f740ded1cbea430bb59f03e98446a7f5298977e9a4d6fae39552b4f"
 metafile = true
 
 [[files]]
+file = "mods/remove-terralith-intro-message.pw.toml"
+hash = "2e9dead89853555c8d909fe2549af2db5e5051c690fae695df93d2369aa8314c"
+metafile = true
+
+[[files]]
 file = "mods/rolled-homongenous-forked.pw.toml"
 hash = "aa6821caebc50542c1d9529fa1ecc615ee0b1c46d9649940c3731ad42f240107"
 metafile = true
