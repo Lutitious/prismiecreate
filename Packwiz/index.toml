@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/biolith.pw.toml"
-hash = "6dc9443f66c77a942c58a0c1e827dc3daa7eb4e6fb0d7039862b5c5b6a00b505"
+hash = "9e8e6fefe7bbb8d00c64a5c9ee6b9dff3c7f18804f7fa7d72f07c37a1cb348a3"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "f01c401ebc6f28875f3329f4f1b2cab86e42a4dc5b6925697a2f85564f4623ca"
+hash = "dffd5e0950b3bd121da4d6be559b13e4917d9ef901ca92e26ad125dc8ec85c26"
 metafile = true
 
 [[files]]
@@ -273,16 +273,6 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "9aa5e1336f740ded1cbea430bb59f03e98446a7f5298977e9a4d6fae39552b4f"
-metafile = true
-
-[[files]]
-file = "mods/regions-unexplored-expansion.pw.toml"
-hash = "8d2129e2cab196956ee8ce430328ff1cfb41f6daa3fbce0ec0f9776ea12c0ab6"
-metafile = true
-
-[[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "445e184eb1e96afc24eef5a79c0f67519fa9908f537057c94529c59220f1c26e"
 metafile = true
 
 [[files]]
