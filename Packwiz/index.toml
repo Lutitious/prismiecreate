@@ -236,6 +236,16 @@ hash = "5387e127755a677f254417ad550d918e23cd20b2c68b063405382a147c717d89"
 metafile = true
 
 [[files]]
+file = "mods/integrated-terminals.pw.toml"
+hash = "dfd151cae7e6ebb420a77a2b2e2390e2a66ab3110c118d2a02d8b3c16485b1f4"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "a97a589180c303bd1285ade1076005af54430fa706ae23125aa6a14d6b7d039f"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
