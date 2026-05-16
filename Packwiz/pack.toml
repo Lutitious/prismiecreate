@@ -1,0 +1,13 @@
+name = "Prismie Create"
+author = "Lutitious"
+version = "0.0.1"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0afe22f5aca72d77347ee75c4f973362a1c34260b6f82f483945915b0257cade"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"
