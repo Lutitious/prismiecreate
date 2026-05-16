@@ -146,11 +146,6 @@ hash = "9471f671a99e870db23fec3b1800a6a3dd89d2d5c4e67e0da50165cd7bd719ef"
 metafile = true
 
 [[files]]
-file = "mods/create-sable-dynamic-lights.pw.toml"
-hash = "8bd25da66655f493b41b090867efb1b33241b8b9f623190c8991fe17709478e1"
-metafile = true
-
-[[files]]
 file = "mods/create-structures-arise.pw.toml"
 hash = "84308711b81c8207e4c73039671cb2760f4446777d69bbe991facd9896d0ce7c"
 metafile = true
@@ -271,6 +266,11 @@ hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "dffd5e0950b3bd121da4d6be559b13e4917d9ef901ca92e26ad125dc8ec85c26"
 metafile = true
@@ -368,11 +368,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
-metafile = true
-
-[[files]]
-file = "mods/sodium-dynamic-lights.pw.toml"
-hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
 metafile = true
 
 [[files]]
