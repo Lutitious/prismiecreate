@@ -106,11 +106,6 @@ hash = "58755a8908c4d73072f7d5e8c1b6bcedffa485c0bc121bc36f77845fa32fd0bf"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker-gui.pw.toml"
-hash = "404ea63dfed6a0abe3ec7cdaf7acf80c469f4d0d0a5eb6691ac9e4d4ff848444"
-metafile = true
-
-[[files]]
 file = "mods/crafttweaker.pw.toml"
 hash = "72ea48eeb92f1122ca23268b337af3f95c06f05ad5988e4165b5a86902352ccf"
 metafile = true
@@ -203,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/cyclops-core.pw.toml"
 hash = "a7c6f90493f75d52a26a04765c0f3abd6e554128204040fa3be00e6122d43f17"
+metafile = true
+
+[[files]]
+file = "mods/easy-crafttweaker.pw.toml"
+hash = "8df73143082c7900d97b34e712446d9bc027dcb410df7a66a261ae830f03201f"
 metafile = true
 
 [[files]]
