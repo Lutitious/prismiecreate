@@ -1,12 +1,12 @@
 name = "Prismie Create"
 author = "Lutitious"
-version = "0.3.1"
+version = "0.3.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "dd5a18e96677446bef1f838b56e3ae5169f6278da0c8205ff47f9faf8c81a903"
+hash = "0dff71edee390728bbca1d826d54ff51b0bc567d6aec935b09eb6a4995f7d09e"
 
 [versions]
 minecraft = "1.21.1"
