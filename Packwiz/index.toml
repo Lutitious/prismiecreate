@@ -151,6 +151,11 @@ hash = "9471f671a99e870db23fec3b1800a6a3dd89d2d5c4e67e0da50165cd7bd719ef"
 metafile = true
 
 [[files]]
+file = "mods/create-recipe-conflict-fixer.pw.toml"
+hash = "50a70b6581d97dab12e955290ff84abe3eff74ff95181d2942a1a561428ba214"
+metafile = true
+
+[[files]]
 file = "mods/create-structures-arise.pw.toml"
 hash = "84308711b81c8207e4c73039671cb2760f4446777d69bbe991facd9896d0ce7c"
 metafile = true
