@@ -106,6 +106,16 @@ hash = "58755a8908c4d73072f7d5e8c1b6bcedffa485c0bc121bc36f77845fa32fd0bf"
 metafile = true
 
 [[files]]
+file = "mods/crafttweaker-gui.pw.toml"
+hash = "404ea63dfed6a0abe3ec7cdaf7acf80c469f4d0d0a5eb6691ac9e4d4ff848444"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "72ea48eeb92f1122ca23268b337af3f95c06f05ad5988e4165b5a86902352ccf"
+metafile = true
+
+[[files]]
 file = "mods/create-aeronautics-compatability.pw.toml"
 hash = "14a661c7ccb290a48b14ed189ff5728cc50d7dd1606368e979464aff1faa9e5b"
 metafile = true
